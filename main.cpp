@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//Adding this line 2018-03-03 to confirm this file has been changed.
 #include "SqMatrix.h"
 
 int main()
