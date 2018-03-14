@@ -2,7 +2,7 @@
 using namespace std;
 //Adding this line 2018-03-03 to confirm this file has been changed.
 #include "SqMatrix.h"
-
+//Adding secone line 2018-03-03
 int main()
 {  SqMatrix m1, m2;
    cin >> m1 >> m2;
